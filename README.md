@@ -6,6 +6,10 @@ Everything is plain HTML/CSS/JS — no build step, no dependencies. That makes i
 
 ## Files
 
+
+
+
+
 ```
 index.html
 style.css
